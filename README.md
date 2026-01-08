@@ -4,6 +4,8 @@
 [![Azure](https://img.shields.io/badge/Azure-Sentinel-blue.svg)](https://azure.microsoft.com/en-us/products/microsoft-sentinel)
 [![n8n](https://img.shields.io/badge/Automation-n8n-orange.svg)](https://n8n.io/)
 
+![Azure Sentinel Attack Map](Pictures/sentinel-attack-map.png)
+
 ## Overview
 
 What happens when you expose an RDP port to the internet? Within minutes, attackers from around the world start knocking.
