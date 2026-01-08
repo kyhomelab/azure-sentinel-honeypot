@@ -273,7 +273,7 @@ SecurityEvent
 
 ## Screenshots
 
-Visual documentation is organized in the [Pictures/](Pictures/) directory. See [Pictures/README.md](Pictures/README.md) for naming conventions.
+Visual documentation is organized in the [Pictures/](Pictures/) directory.
 
 ## Troubleshooting
 
@@ -315,8 +315,7 @@ cloud-honeypot/
 │   └── high_freq_attack_detector.kql
 ├── Workbooks/
 │   └── attack_map_workbook.json
-├── Pictures/
-│   └── README.md               # Screenshot organization
+├── Pictures/                   # Project screenshots
 ├── LICENSE
 ├── README.md
 ├── SECURITY.md
